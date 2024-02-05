@@ -1,0 +1,7 @@
+# Sample Entity
+entities.boxohelpeR/SampleEntity.placements.name.normal=Sample Entity
+entities.boxohelpeR/SampleEntity.attributes.description.sampleProperty=A sample property for your entity.
+
+# Sample Trigger
+triggers.boxohelpeR/SampleTrigger.placements.name.normal=Sample Trigger
+triggers.boxohelpeR/SampleTrigger.attributes.description.sampleProperty=A sample property for your trigger.
